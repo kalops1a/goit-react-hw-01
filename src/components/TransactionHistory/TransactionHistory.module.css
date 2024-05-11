@@ -1,0 +1,15 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableHeader,
+.tableItem {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.tableHeader {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
